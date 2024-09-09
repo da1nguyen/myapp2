@@ -1,0 +1,6 @@
+asyncpraw
+pandas
+streamlit
+textblob
+numpy
+nest_asyncio
